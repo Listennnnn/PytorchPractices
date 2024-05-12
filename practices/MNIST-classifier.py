@@ -8,7 +8,7 @@ import gzip  # 用于文件压缩的模块
 import torch.nn.functional as F  # PyTorch 中的神经网络功能函数
 from torch.utils.data import TensorDataset, DataLoader  # PyTorch 的数据处理工具
 
-import numpy as np  # 科学计算库 NumPy
+import numpy as np
 
 from torch import optim  # PyTorch 的优化器模块
 
