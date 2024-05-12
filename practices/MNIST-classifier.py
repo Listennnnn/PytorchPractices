@@ -17,9 +17,6 @@ def get_model():
     """
     创建并返回一个Mnist_NN模型实例及其优化器。
 
-    参数:
-    无
-
     返回:
     model: Mnist_NN模型实例，用于图像分类。
     optim.Adam: 优化器实例，使用Adam算法优化模型参数，学习率为0.001。
