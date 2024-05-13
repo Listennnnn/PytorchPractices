@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a0884e5-3ed4-4ed2-8d86-c8d1d08d8d1e" name="Changes" comment="test05">
+    <list default="true" id="7a0884e5-3ed4-4ed2-8d86-c8d1d08d8d1e" name="Changes" comment="env display">
+      <change afterPath="$PROJECT_DIR$/LeeML_HW/ML2022Spring_HW1_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeeML_HW/ML2023Spring_HW2_Multiclass_Classification_ipynb.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +76,7 @@
       <recent name="E:\PythonProject\PyTorchPractice01\data\mnist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProject\PyTorchPractice01\LeeML_HW" />
       <recent name="E:\PythonProject\PyTorchPractice01\practices" />
     </key>
   </component>
@@ -137,7 +142,9 @@
       <workItem from="1715498028192" duration="69000" />
       <workItem from="1715507562505" duration="7000" />
       <workItem from="1715520316541" duration="46000" />
-      <workItem from="1715568745499" duration="424000" />
+      <workItem from="1715568745499" duration="1675000" />
+      <workItem from="1715588655712" duration="1065000" />
+      <workItem from="1715594066874" duration="548000" />
     </task>
     <task id="LOCAL-00001" summary="Basic network construction and training process">
       <option name="closed" value="true" />
@@ -195,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715497934176</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="env display">
+      <option name="closed" value="true" />
+      <created>1715569276553</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715569276553</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +234,8 @@
     <MESSAGE value="double hub test3" />
     <MESSAGE value="test04" />
     <MESSAGE value="test05" />
-    <option name="LAST_COMMIT_MESSAGE" value="test05" />
+    <MESSAGE value="env display" />
+    <option name="LAST_COMMIT_MESSAGE" value="env display" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
