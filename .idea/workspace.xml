@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a0884e5-3ed4-4ed2-8d86-c8d1d08d8d1e" name="Changes" comment="add LeeHW">
-      <change afterPath="$PROJECT_DIR$/data/temperature/temps.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practices/TF-regression.py" afterDir="false" />
+    <list default="true" id="7a0884e5-3ed4-4ed2-8d86-c8d1d08d8d1e" name="Changes" comment="regression practice">
+      <change afterPath="$PROJECT_DIR$/basic/basic_pyTorch_operations.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,26 +56,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.MNIST-classifier (1).executor": "Run",
-    "Python.MNIST-classifier.executor": "Run",
-    "Python.TF-regression.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/PythonProject/PyTorchPractice01",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Console",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.MNIST-classifier (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.MNIST-classifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TF-regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/PythonProject/PyTorchPractice01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\PythonProject\PyTorchPractice01\data" />
@@ -186,7 +184,13 @@
       <workItem from="1715956188224" duration="37000" />
       <workItem from="1715956299447" duration="44000" />
       <workItem from="1715998596268" duration="1278000" />
-      <workItem from="1716011520829" duration="8899000" />
+      <workItem from="1716011520829" duration="9044000" />
+      <workItem from="1716032780483" duration="13000" />
+      <workItem from="1716109868107" duration="1998000" />
+      <workItem from="1716132313733" duration="522000" />
+      <workItem from="1716165871289" duration="49000" />
+      <workItem from="1716166007487" duration="265000" />
+      <workItem from="1716166657596" duration="4766000" />
     </task>
     <task id="LOCAL-00001" summary="Basic network construction and training process">
       <option name="closed" value="true" />
@@ -260,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715595047880</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="regression practice">
+      <option name="closed" value="true" />
+      <created>1716022657190</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716022657190</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +298,8 @@
     <MESSAGE value="test05" />
     <MESSAGE value="env display" />
     <MESSAGE value="add LeeHW" />
-    <option name="LAST_COMMIT_MESSAGE" value="add LeeHW" />
+    <MESSAGE value="regression practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="regression practice" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
