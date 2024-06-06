@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a0884e5-3ed4-4ed2-8d86-c8d1d08d8d1e" name="Changes" comment="pytorch practice">
-      <change afterPath="$PROJECT_DIR$/LeeML_HW/ML2023_HW3_ImageClassification.ipynb" afterDir="false" />
+    <list default="true" id="7a0884e5-3ed4-4ed2-8d86-c8d1d08d8d1e" name="Changes" comment="HW3">
+      <change afterPath="$PROJECT_DIR$/LeeML_HW/ML2023Spring_HW4_SpeakerIdentification.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +38,10 @@
     &quot;assignee&quot;: &quot;Listennnnn&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="390c9e7c-ac51-4cce-8a51-22471c555f7b" />
-  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Listennnnn/PytorchPractices.git&quot;,
-    &quot;accountId&quot;: &quot;390c9e7c-ac51-4cce-8a51-22471c555f7b&quot;
+    &quot;accountId&quot;: &quot;70ac5693-d78c-4b08-8d56-6bd81cf4f1d5&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -66,13 +63,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/PythonProject/PyTorchPractice01&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/PythonProject/scrapy-commodiy-data-master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -196,7 +193,15 @@
       <workItem from="1716201984136" duration="14000" />
       <workItem from="1716865438087" duration="67000" />
       <workItem from="1716881659281" duration="34000" />
-      <workItem from="1717308987947" duration="4749000" />
+      <workItem from="1717308987947" duration="5033000" />
+      <workItem from="1717322693609" duration="140000" />
+      <workItem from="1717324928504" duration="993000" />
+      <workItem from="1717326167464" duration="771000" />
+      <workItem from="1717335145199" duration="8000" />
+      <workItem from="1717384432568" duration="45000" />
+      <workItem from="1717384483739" duration="26000" />
+      <workItem from="1717392438423" duration="23000" />
+      <workItem from="1717637697926" duration="4011000" />
     </task>
     <task id="LOCAL-00001" summary="Basic network construction and training process">
       <option name="closed" value="true" />
@@ -294,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716171815953</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="HW3">
+      <option name="closed" value="true" />
+      <created>1717322534839</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717322534839</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +335,8 @@
     <MESSAGE value="add LeeHW" />
     <MESSAGE value="regression practice" />
     <MESSAGE value="pytorch practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="pytorch practice" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
