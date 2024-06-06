@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a0884e5-3ed4-4ed2-8d86-c8d1d08d8d1e" name="Changes" comment="HW3">
-      <change afterPath="$PROJECT_DIR$/LeeML_HW/ML2023Spring_HW4_SpeakerIdentification.ipynb" afterDir="false" />
+    <list default="true" id="7a0884e5-3ed4-4ed2-8d86-c8d1d08d8d1e" name="Changes" comment="HW4">
+      <change afterPath="$PROJECT_DIR$/practices/CNN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeeML_HW/ML2023Spring_HW3_ImageClassification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LeeML_HW/ML2023Spring_HW3_ImageClassification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeeML_HW/ML2023Spring_HW4_SpeakerIdentification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LeeML_HW/ML2023Spring_HW4_SpeakerIdentification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic_pyTorch_operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_pyTorch_operations.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,38 +56,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.MNIST-classifier (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.MNIST-classifier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TF-regression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/PythonProject/scrapy-commodiy-data-master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.CNN.executor": "Run",
+    "Python.MNIST-classifier (1).executor": "Run",
+    "Python.MNIST-classifier.executor": "Run",
+    "Python.TF-regression.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/PythonProject/scrapy-commodiy-data-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\PythonProject\PyTorchPractice01\data" />
       <recent name="E:\PythonProject\PyTorchPractice01\data\mnist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProject\PyTorchPractice01\data" />
       <recent name="E:\PythonProject\PyTorchPractice01\LeeML_HW" />
       <recent name="E:\PythonProject\PyTorchPractice01\data\Temperature" />
       <recent name="E:\PythonProject\PyTorchPractice01\practices" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TF-regression">
+  <component name="RunManager" selected="Python.CNN">
+    <configuration name="CNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyTorchPractice01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practices/CNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MNIST-classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyTorchPractice01" />
       <option name="ENV_FILES" value="" />
@@ -133,6 +161,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CNN" />
         <item itemvalue="Python.TF-regression" />
         <item itemvalue="Python.MNIST-classifier" />
       </list>
@@ -201,7 +230,8 @@
       <workItem from="1717384432568" duration="45000" />
       <workItem from="1717384483739" duration="26000" />
       <workItem from="1717392438423" duration="23000" />
-      <workItem from="1717637697926" duration="4011000" />
+      <workItem from="1717637697926" duration="5924000" />
+      <workItem from="1717658167445" duration="4324000" />
     </task>
     <task id="LOCAL-00001" summary="Basic network construction and training process">
       <option name="closed" value="true" />
@@ -307,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717322534839</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HW4">
+      <option name="closed" value="true" />
+      <created>1717641815290</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717641815290</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +374,8 @@
     <MESSAGE value="regression practice" />
     <MESSAGE value="pytorch practice" />
     <MESSAGE value="HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
+    <MESSAGE value="HW4" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW4" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -344,5 +383,6 @@
     <SUITE FILE_PATH="coverage/PyTorchPractice01$main.coverage" NAME="main Coverage Results" MODIFIED="1715420977961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyTorchPractice01$MNIST_classifier__1_.coverage" NAME="MNIST-classifier (1) Coverage Results" MODIFIED="1715435861921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
     <SUITE FILE_PATH="coverage/PyTorchPractice01$MNIST_classifier.coverage" NAME="MNIST-classifier Coverage Results" MODIFIED="1715440951681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/PyTorchPractice01$CNN.coverage" NAME="CNN Coverage Results" MODIFIED="1717662434762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
   </component>
 </project>
